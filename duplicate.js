@@ -37,7 +37,7 @@ console.log(uniqueNumbers)
 
 
 // remove duplicate latter from a sentence
-/* 
+
 const text = "Bangladesh is a small country. There are many beautiful rivers in Bangladesh.";
 function removeDuplicateLatter(text){
     const uniqueItem = [];
@@ -52,4 +52,3 @@ function removeDuplicateLatter(text){
 
 const uniqueLatter = removeDuplicateLatter(text);
 console.log(uniqueLatter)
- */
